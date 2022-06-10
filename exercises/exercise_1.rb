@@ -3,4 +3,5 @@ def calculate_bmi(weight, height)
   return bmi
 end
 
-p calculate_bmi(65, 1.75)
+  p calculate_bmi(65, 1.75)
+
