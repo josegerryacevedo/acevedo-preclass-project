@@ -22,3 +22,4 @@ def who_is_adult(ages)
 end
 
 p who_is_adult([19, 24, 17, 18, 10, 32])
+
